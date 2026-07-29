@@ -124,13 +124,14 @@ real-world projects.
 
 ---
 
-## 👀 Profile Views
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alirezaalamshah&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
-
-⭐️ Thanks for visiting my profile!
+<p align="center">
+  ⭐ Thanks for visiting my profile! If you like my work, consider giving a ⭐ to my repositories.
+</p>
 
 </div>
