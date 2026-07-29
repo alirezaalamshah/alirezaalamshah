@@ -11,8 +11,6 @@ I build backend systems, automation tools, and fast websites — and share what 
 [![Telegram](https://img.shields.io/badge/Telegram-Chat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alirezaalamsha)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@alirezaalamshah.ir)
 
-**English | [فارسی ↓](#فارسی)**
-
 </div>
 
 ---
@@ -127,61 +125,3 @@ real-world projects.
 ⭐️ Thanks for visiting my profile!
 
 </div>
-
----
-
-<div align="center" id="فارسی">
-
-## سلام، من علیرضا عالمشاه هستم 👋
-
-### توسعه‌دهنده پایتون و مهندس وب
-
-سیستم‌های بک‌اند، ابزارهای اتوماسیون و وب‌سایت‌های سریع می‌سازم — و چیزهایی که یاد می‌گیرم رو هم به اشتراک می‌ذارم.
-
-**[English ↑](#hi-im-alireza-alamshah-)  |  فارسی**
-
-</div>
-
-### 👨‍💻 درباره من
-
-توسعه‌دهنده‌ی پایتون هستم و روی ساخت نرم‌افزارهای پایدار و کارآمد تمرکز دارم — از API های بک‌اند تا ابزارهای دسکتاپ و اتوماسیون سرور. علاوه بر این، وب‌سایت‌های خودم رو هم طراحی و می‌سازم و آموزش‌های رایگان برنامه‌نویسی به زبان فارسی در [alirezaalamshah.ir](https://alirezaalamshah.ir/tutorials/) منتشر می‌کنم.
-
-**حوزه‌های اصلی فعالیت:**
-
-- 🔹 توسعه بک‌اند با **Django** و **Django REST Framework**
-- 🔹 اپلیکیشن‌های دسکتاپ با **PyQt5**
-- 🔹 اتوماسیون و اسکریپت‌نویسی با **Python**
-- 🔹 طراحی و بهینه‌سازی پایگاه داده (**PostgreSQL**، **SQLite**)
-- 🔹 سرورهای لینوکس، **Docker** و فرآیندهای استقرار
-
-**در حال یادگیری و تقویت مهارت در:**
-
-- ⚙️ معماری پیشرفته Django و کد تمیز
-- ⚙️ طراحی سیستم و مقیاس‌پذیری
-- ⚙️ DevOps
-- ⚙️ زیرساخت ابری
-
-### 🚀 پروژه‌های منتخب
-
-- **☕ [سیستم مدیریت کافه و رستوران](https://alirezaalamshah.ir/products/cafe-restaurant-system/)** — راهکار کامل آنلاین کافه/رستوران با منوی دیجیتال، مدیریت سفارش، پرداخت آنلاین و پنل‌های جدا برای مدیر و گارسون. `Django` `DRF` `PostgreSQL` `React` `Docker`
-- **🍽️ [منوی پویا کافه](https://alirezaalamshah.ir/portfolio/cafe-dynamic-menu/)** — منوی آنلاین کافه با پنل مدیریت برای آیتم‌ها، قیمت‌ها و موجودی، به‌همراه سفارش‌دهی درون‌برنامه‌ای. `React` `Django`
-- **🌐 [بازطراحی سایت نیک‌کتب](https://alirezaalamshah.ir/portfolio/nikiteb-redesign/)** — بازسازی کامل یک سایت وردپرسی با React و Django برای عملکرد و مقیاس‌پذیری بهتر. `React` `Django` `REST API`
-- **🏷️ [سامانه چاپ لیبل کارتن](https://alirezaalamshah.ir/portfolio/label-printing-system/)** — نرم‌افزار چاپ لیبل با پایتون برای خطوط تولید صنعتی. `Python`
-- **🖥️ نرم‌افزار حسابداری دسکتاپ** — اپلیکیشن سبک و آفلاین حسابداری برای فروشگاه‌ها، بدون نیاز به دانش حسابداری. `Python` `PyQt5` `SQLite`
-- **📚 [دوره آموزش پایتون](https://alirezaalamshah.ir/products/python-course/)** — بیش از ۲۰ ساعت آموزش پروژه‌محور با ۳۰+ تمرین و ۳ پروژه‌ی واقعی کامل.
-
-### 📚 علایق یادگیری
-
-- معماری تمیز (Clean Architecture)
-- مهندسی بک‌اند و طراحی سیستم
-- DevOps و زیرساخت ابری
-- اتوماسیون
-- هوش مصنوعی
-
-### 📫 راه‌های ارتباطی
-
-| وب‌سایت | گیت‌هاب | لینکدین | تلگرام | ایمیل |
-|---|---|---|---|---|
-| [alirezaalamshah.ir](https://alirezaalamshah.ir) | [@alirezaalamshah](https://github.com/alirezaalamshah) | [ali-alamshah](https://www.linkedin.com/in/ali-alamshah/) | [@alirezaalamsha](https://t.me/alirezaalamsha) | [info@alirezaalamshah.ir](mailto:info@alirezaalamshah.ir) |
-
-<div align="center">⭐️ از سر زدن به پروفایلم ممنونم!</div>
