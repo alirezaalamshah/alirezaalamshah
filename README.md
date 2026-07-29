@@ -122,6 +122,15 @@ real-world projects.
 |---|---|---|---|---|
 | [alirezaalamshah.ir](https://alirezaalamshah.ir) | [@alirezaalamshah](https://github.com/alirezaalamshah) | [ali-alamshah](https://www.linkedin.com/in/ali-alamshah/) | [@alirezaalamsha](https://t.me/alirezaalamsha) | [info@alirezaalamshah.ir](mailto:info@alirezaalamshah.ir) |
 
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alirezaalamshah&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
+
 ⭐️ Thanks for visiting my profile!
 
 </div>
